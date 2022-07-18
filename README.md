@@ -1,4 +1,4 @@
-# SentimentAnalysisAPI
+# Sentiment Analysis API
 A simple API that takes English text and provides a predicted sentiment (positive/negative) for it. It is a python server using Fast API that predicts sentiments using logistic regression. The documentation uses Swagger UI (mostly the default Fast API stuff, but also some custom descriptions etc.).
 
 ## How to Use
