@@ -1,0 +1,7 @@
+fastapi
+pydantic
+pandas
+nltk
+pickle
+contractions
+sklearn
