@@ -22,3 +22,4 @@ A simple API that takes English text and provides a predicted sentiment (positiv
 * Host using Deta or Heroku -- I am currently in the process of hosting a public endpoint for the API but ran into problems with incompatible dependencies for Deta and haven't had time to fix this yet
 * Make it possible to choose different models with a query parameter
 * Possibly a "feature importance" feature that highlights what words and phrases in the given english text contributed in what ways to the predicted sentiment (NaiveBayes model is useful for this since it is probabilistic)
+* More advanced models (e.g. deeplearning) and a better model evaluation framework (e.g. k-fold cross validation) for better hyperparameter tuning
