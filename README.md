@@ -3,6 +3,7 @@ A simple API that takes English text and provides a predicted sentiment (positiv
 
 ## How to Use
 * First download the files and uvicorn (to host the Fast API server locally)
+* Install dependencies (can be found in requirements.txt and installed using pip)
 * Then run "uvicorn main:app" from the terminal to start the local server (from the directory of the files in this github)
 * Documentation can be found here when hosted locally: http://127.0.0.1:8000/docs#/
 * GET requests can then be made to "http://127.0.0.1:8000/predictSentiment/" where the "text" query parameter is the url encoded english text to get a predicted sentiment of (response is json): <br>
