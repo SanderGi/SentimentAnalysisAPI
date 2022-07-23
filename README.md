@@ -10,6 +10,9 @@ A simple API that takes English text and provides a predicted sentiment (positiv
 ![image](https://user-images.githubusercontent.com/97496861/179452562-7c5327f3-07a2-479c-b01a-d05652a7556d.png)
 * The "predictedSentiment" can either be "positive" or "negative"
 
+## Demo Video
+[![Watch the video](https://img.youtube.com/vi/bcV2_wZw4FA/maxresdefault.jpg)](https://youtu.be/bcV2_wZw4FA)
+
 ## Files
 * ExploreData.ipynb -- Notebook used to explore data and NLP models
 * sentimentAnalysis.py -- Python file that contains all the classes for handling the data, models, inference, etc. using an OOP approach
